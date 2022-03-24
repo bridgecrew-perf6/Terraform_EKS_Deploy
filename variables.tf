@@ -1,9 +1,9 @@
 variable "access_key" {
-   default= "<Input your access keys as displayed in your account>"
+   default= "<Input your access key as displayed in your account>"
 }
 
 variable "secret_key" {
-    default = "<Input your secret keys as displayed in your account>"
+    default = "<Input your secret key as displayed in your account>"
 }
 
 variable "aws_region" {
