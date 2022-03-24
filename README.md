@@ -35,6 +35,6 @@ You can nagivate to the amazon web console; search for EKS and 1 custer will be 
 
 
 ### Clean Up
-Ensure to delete resources not need after this exercise to prevent uncurring charging on your account.
+Ensure to delete resources not needed after this exercise to prevent incurring charging on your account.
 Run `terraform destroy` to destroy all resources altogether or
 Run `terraform destroy -target <resource to destroy>` where `<resource to destroy>` is a specific resource you intended to destroy while keeping the others.
