@@ -1,5 +1,5 @@
 # EKS Cluster deployment (Terraform)
-###What is EKS?
+### What is EKS?
 **Amazon Elastic Kubernetes Service** (EKS) is a managed Kubernetes instance by AWS.
 
 ### Technologies used:
